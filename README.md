@@ -39,6 +39,7 @@ java TodoApp
 Storage: tasks.tsv
 
 Commands:
+```
   add <title> [/due yyyy-mm-dd] [/p low|med|high] [/tags tag1,tag2]
   list [all|open|done] [/sort id|due|prio] [/rev]
   done <id>      — mark complete
@@ -63,6 +64,7 @@ tasks are stored in a simple TSV file tasks.tsv for easy reading/editing:
 ```shell
 # id   done   priority   due        title         tags
 1      0      HIGH       2025-08-30 Buy milk      shopping,urgent
+
 ```
 ### 🔧 Tech Stack
 
