@@ -98,7 +98,7 @@ git push origin feature/new-feature
 
 ### 📜 License
 
-This project is licensed under the MIT License – feel free to use, modify, and share.
+This project is licensed under the Apache 2.0 License – feel free to use, modify, and share.
 
 <p align="center"> 💡 “Organize today, achieve tomorrow.” </p>
 
